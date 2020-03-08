@@ -1,7 +1,7 @@
 # CDL
 CDL Checkout System Kata
 
-# Intro
+## Intro
 This is a Java solution to the CDL Checkout System Kata problem. The app should process products, and generate a final amount to be paid, while keeping track of possible special offers, and ajusting the final amount according to them.
 
 ## Procedure
